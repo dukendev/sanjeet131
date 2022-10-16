@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @sanjeet131
 - 👀 I’m interested in Android App Developement (Unity & Android Studio), C++, Java, Python Programming. 
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Projects.
-
-
 
 ### Stats
 <a href="https://github.com/sanjeet131">
